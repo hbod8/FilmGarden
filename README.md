@@ -1,6 +1,12 @@
 # FilmGarden
 A web garden for film tips and knowledge. A Sprout of Seattle Film Club.
 
+## The website
+
+It is a website, it auto updates when you update this repository of posts!
+
+[filmGarden](filmgarden.netlify.app)
+
 ## Contributing Notes
 
 To add notes, make a `.md` file in the `content/` folder. Thats it! You can embed images, format text, and make folders.
