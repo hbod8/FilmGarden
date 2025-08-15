@@ -7,7 +7,7 @@ draft: false
 
 This is the homepage of the ***film garden***.
 
-This is a quiet spot for more-permanent knowledge posts gathered from discussion in the Seattle Film Club Discord server, in-person, or elsewhere.
+This is a quiet spot for more-permanent knowledge posts gathered from discussion about Film. in-person, online, or elsewhere.
 
 The beginnings are here:
 

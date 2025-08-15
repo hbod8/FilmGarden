@@ -1,5 +1,5 @@
 # FilmGarden
-A web garden for film tips and knowledge. A Sprout of Seattle Film Club.
+A web garden for film tips and knowledge.
 
 ## The website
 
