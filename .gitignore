@@ -1,3 +1,6 @@
 node_modules
 .DS_Store
 public
+quartz/.quartz-cache
+quartz/.quartz-cache/transpiled-build.mjs
+quartz/.quartz-cache/transpiled-build.mjs.map

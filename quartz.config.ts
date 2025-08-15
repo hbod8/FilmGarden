@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Film Garden 🪴",
-    pageTitleSuffix: "A place for film bits and bobs",
+    pageTitleSuffix: " - A place for film bits and bobs",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
