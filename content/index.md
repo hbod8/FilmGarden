@@ -7,13 +7,11 @@ draft: false
 
 This is the homepage of the ***film garden***.
 
-This is a quiet spot for more-perminant knowledge posts gathered from discussion in the Seattle Film Club Discord server, in-person, or elsewhere.
+This is a quiet spot for more-permanent knowledge posts gathered from discussion in the Seattle Film Club Discord server, in-person, or elsewhere.
 
 The beginnings are here:
 
 - We've got a bulk rolling page here: [[bulk-rolling-film]]
-
-
 
 ## Contributing Leaves 🍂 to the garden
 
