@@ -5,7 +5,7 @@ A web garden for film tips and knowledge. A Sprout of Seattle Film Club.
 
 It is a website, it auto updates when you update this repository of posts!
 
-[filmGarden](filmgarden.netlify.app)
+[film garden](https://filmgarden.netlify.app)
 
 <img width="800" alt="Film garden website" src="https://github.com/user-attachments/assets/dc6fb4d1-4e6e-4880-891c-04793e83f7dc" />
 
