@@ -22,6 +22,12 @@ As soon as the new files are added (when your *pull request* is approved by a fe
 - Read up about [Forks](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo)
 - In doubt, ask someone listed in the repo or FilmExperiments organization!
 
+### A beautiful and fun editor for use with this site
+
+It can be weird that markdown has all this syntax and symbols. The editor [Obsidian](https://obsidian.md) provides an app which you can use to edit the site! You can just download it, and open the `content/` folder as a "vault" (The Obsidian term for a folder of text files.)
+
+The site supports all the styling features of obsidian.
+
 ### (For development-interested folks)
 
 #### Restore
