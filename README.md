@@ -1,6 +1,8 @@
 # FilmGarden
 A web garden for film tips and knowledge. A Sprout of Seattle Film Club.
 
+<img width="800" alt="Screenshot 2025-08-14 at 6 40 49 PM" src="https://github.com/user-attachments/assets/dc6fb4d1-4e6e-4880-891c-04793e83f7dc" />
+
 ## The website
 
 It is a website, it auto updates when you update this repository of posts!
